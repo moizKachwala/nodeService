@@ -1,0 +1,22 @@
+{
+  "name": "nodeservice",
+  "version": "1.0.0",
+  "description": "Node Service to control the build tower.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moizKachwala/nodeService.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Moiz Kachwala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moizKachwala/nodeService/issues"
+  },
+  "homepage": "https://github.com/moizKachwala/nodeService#readme"
+}
